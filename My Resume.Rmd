@@ -1,0 +1,157 @@
+---
+title: "Ayinde Monsurat Resume"
+author: Ayinde Monsurat Olabisi
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+#uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+Contact Info {#contact}
+-----------------------------------------------------------------
+---------------
+
+- <i class="fa fa-envelope"></i> mayinde08@gmail.com
+- <i class="fa fa-github"></i> https://github.com/Techzill
+- <i class="fa fa-phone"></i> +2347087879239
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in Data cleaning and preparation, statistical analysis, exploratory data analysis, Textmining and webscraping.
+
+- Skilled in R, Rmarkdown, Python, SQL, Microsoft Excel, PowerBi, Google sheets, Jupyter Notebook.
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Ayinde Monsurat {#title}
+--------------------------------------------------------------------------------
+
+To obtain a challenging and growth-oriented position as a data analyst where I can utilize my strong analytical and technical skills to help organizations make informed business decisions by transforming complex data into valuable insights. I am eager to work in a dynamic and fast-paced environment, continuously learning and improving my abilities, and contributing to the success of the team.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Kwara State University
+
+Bsc Industrial Chemistry
+
+Ilorin, Nigeria
+
+2018
+
+### University of Ibadan
+
+Msc in Analytical Chemistry
+
+Oyo, Nigeria
+
+2021
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Analyst, intern
+
+Proedge Consult.
+
+Lagos, Nigeria
+
+2022
+
+::: concise
+- Identify, analyze and interpret trends in complex dataset using statistical technique and provide ongoing reports. 
+- Maintain confidentiality of sensitive information.
+- Developed clear visualization to convey complicated data in a straight forward fashion.
+
+:::
+
+### Data Analyst
+
+Unijoegrace Research and data analysis company
+
+Oyo, Nigeria
+
+2021 - 2022
+
+::: concise
+- Interpretation of data, analyzing results using statistical technique
+- Co-host on data analysis seminars/workshop.
+- Conducted a project in collaboration with the F-SAMA as a co-researcher.
+:::
+
+
+### Data Analyst(Adhoc Staff)
+
+Alerzo Company
+
+Oyo, Nigeria
+
+March,2022
+
+::: concise
+- Transfering of data from paper formats into computer files
+- Verification of data by comparing its source
+- Sorting and Organizing of paperworks after entering data.
+:::
+
+Certifications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Data Science Orientation
+
+Coursera E-learning  
+
+2021
+
+### Introduction to R
+
+DataCamp E-learning
+
+2022 
+
+### Data Analysis with R programming
+
+Google Certification
+
+2023
+
+### SQL crash Course
+
+Corise
+
+2023
+
+### Introduction to SQL
+
+Dataquest E-learning
+
+2023
+
+### Introduction to PowerBi and Introduction to DAX in PowerBi
+
+DataCamp E-learning
+
+2023.
+
